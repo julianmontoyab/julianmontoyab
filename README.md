@@ -1,6 +1,6 @@
 -  Hi, I’m Julian Montoya and I am studying Computer Engineering at Florida State University
--  I have a strong interest in embedded systems and object-oriented programming 
--  I'm looking for internship opportunities for Summer 2024
+-  I have a strong interest in embedded systems and programming 
+-  I'm looking for full-time opportunities after graduation in May
 -  Email: {jm19w@fsu.edu}
 
 <!---
