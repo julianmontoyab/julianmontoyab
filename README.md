@@ -1,7 +1,7 @@
 # Hi, I’m Julian - Embedded Systems Engineer 
 
-I design and build **firmware + hardware systems** that bridge electronics and software.  
-Currently exploring IoT, motor control, and real-time data logging.
+I design and build embedded systems that bridge firmware and hardware, with experience in C/C++, ARM Cortex-M microcontrollers, RTOS, I2C/SPI communication, and cloud-connected IoT solutions.
+I’ve led projects including hybrid stepper motor controllers, autonomous robots, and Linux-based aquaponic farm automation.
 
 ### Skills
 - **Firmware:** C/C++, bare-metal, RTOS, interrupt-driven drivers
