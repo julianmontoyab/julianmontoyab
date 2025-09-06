@@ -22,5 +22,5 @@ Currently exploring IoT, motor control, and real-time data logging.
 
 ### Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/julian-montoyab/)  
-- [Resume]("Julian Montoya's Resume.pdf")  
+- [Resume](https://github.com/julianm-7/julianm-7/blob/main/Julian%20Montoya's%20Resume.pdf)  
 - 📧 julianmontoyb@gmail.com
