@@ -1,4 +1,4 @@
-# Hi, I’m Julian - Embedded Systems Engineer in the making
+# Hi, I’m Julian - Embedded Systems Engineer 
 
 I design and build **firmware + hardware systems** that bridge electronics and software.  
 Currently exploring IoT, motor control, and real-time data logging.
