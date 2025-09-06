@@ -16,11 +16,11 @@ Currently exploring IoT, motor control, and real-time data logging.
 - [**Raspberry Pi-based Embedded System Projects**](link) — Vice President, IEEE — led Raspberry Pi embedded projects and obtained $5,000 sponsorship to increase student participation.
 - [**Full-Stack Web Development with Python**](link) — Full-stack tennis scheduling web app using Flask and MySQL with dynamic, responsive interfaces and optimized queries.
 
-###  Currently Learning
+### Currently Learning
 - FreeRTOS / RTOS concepts (task scheduling, semaphores, queues)
 - Machine learning inference on microcontrollers (TinyML, edge AI) 
 
-###  Let’s Connect
+### Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/julian-montoyab/)  
 - [Resume](link)  
 - 📧 julianmontoyb@gmail.com
