@@ -10,7 +10,7 @@ I’ve led projects including hybrid stepper motor controllers, autonomous robot
 - **Tools:** GNU Arm Toolchain, mySQL, Git, Bash
 
 ### Featured Projects
-- [**Linux-Based Embedded Systems Development (CIA-Sponsored Project)**](link) — Linux-based embedded farm automation system integrating C++/Python motor + LiDAR control with cloud-connected machine learning crop analysis
+- [**Linux-Based Embedded Systems Development (CIA-Sponsored Project)**](https://github.com/julianm-7/linux-embedded-farm-automation) — Linux-based embedded farm automation system integrating C++/Python motor + LiDAR control with cloud-connected machine learning crop analysis
 - [**Lead Embedded Systems Developer – Hybrid Stepper Motor**](link) — Embedded C firmware on MSP430 for hybrid stepper motor control with I2C light sensor–based input feeback
 - [**Autonomous Maze-Navigation Robot**](link) — MSP432-based autonomous maze-navigation robot with IR sensors and C++ PID-controlled wheel actuation for precise path tracking.
 - [**Raspberry Pi-based Embedded System Projects**](link) — Vice President, IEEE — led Raspberry Pi embedded projects and obtained $5,000 sponsorship to increase student participation.
