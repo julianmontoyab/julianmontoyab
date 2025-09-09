@@ -7,7 +7,7 @@ I’ve led projects including hybrid stepper motor controllers, autonomous robot
 - **Firmware:** C/C++, bare-metal, RTOS, interrupt-driven drivers
 - **Hardware:** STM32, MSP430, MSP432, Raspberry Pi Pico, Arduino
 - **Interfaces:** I2C, SPI, UART, GPIO, ADC
-- **Tools:** GNU Arm Toolchain, mySQL, Git, Bash
+- **Tools:** GNU Arm Toolchain, Git, Bash, Eclipse-based IDE, Visual Studio
 
 ### Featured Projects
 - [**Linux-Based Embedded Systems Development (CIA-Sponsored Project)**](https://github.com/julianm-7/linux-embedded-farm-automation) — Linux-based embedded farm automation system integrating C++/Python motor + LiDAR control with cloud-connected machine learning crop analysis
