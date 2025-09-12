@@ -14,7 +14,7 @@ I’ve led projects including hybrid stepper motor controllers, autonomous robot
 - [**Lead Embedded Systems Developer – Hybrid Stepper Motor**](https://github.com/julianm-7/HybridStepperMotor) — Embedded C firmware on MSP430 for hybrid stepper motor control with I2C light sensor–based input feeback
 - [**Autonomous Maze-Navigation Robot**](https://github.com/julianm-7/Autonomous-Maze-Navigation-Robot) — MSP432-based autonomous maze-navigation robot with IR sensors and C++ PID-controlled wheel actuation for precise path tracking.
 - [**Raspberry Pi-based Embedded System Projects**](link) — Vice President, IEEE — led Raspberry Pi embedded projects and obtained $5,000 sponsorship to increase student participation.
-- [**Full-Stack Web Development with Python**](https://github.com/Frankie915/TennisSchedule) — Full-stack tennis scheduling web app using Flask and MySQL with dynamic, responsive interfaces and optimized queries.
+- [**Full-Stack Web Development with Python**](https://github.com/julianmontoyab/TennisSchedule) — Full-stack tennis scheduling web app using Flask and MySQL with dynamic, responsive interfaces and optimized queries.
 
 ### Currently Learning
 - FreeRTOS / RTOS concepts (task scheduling, semaphores, queues)
