@@ -22,5 +22,5 @@ I’ve led projects including hybrid stepper motor controllers, autonomous robot
 
 ### Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/julian-montoyab/)  
-- [Resume](https://github.com/julianm-7/julianm-7/blob/main/Julian%20Montoya's%20Resume.pdf)  
+- [Resume](https://github.com/julianmontoyab/julianmontoyab/blob/main/Julian%20Montoyas%20Resume.pdf)  
 - email-julianmontoyb@gmail.com
