@@ -1,6 +1,7 @@
 # Embedded Systems Engineer 
 
-Hi, I'm Julian - I design and build embedded systems that bridge firmware and hardware, with experience in C/C++, ARM Cortex-M microcontrollers, RTOS, and I2C/SPI communication.
+Hi, I'm Julian
+I design and build embedded systems that bridge firmware and hardware, with experience in C/C++, ARM Cortex-M microcontrollers, RTOS, and I2C/SPI communication.
 I’ve led projects including hybrid stepper motor controllers, autonomous robots, and Linux-based aquaponic farm automation.
 
 ### Skills
